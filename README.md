@@ -9,5 +9,7 @@ Analyzing NBA players' data from recent years
 * [NBA Players on Kaggle.com](https://www.kaggle.com/datasets/justinas/nba-players-data)
 
 ## Milestones
-- [Project implementation](code.ipynb)
-- [Presentation video](https://youtu.be/pLiu6ytFnmU)
+- [Project implementation I](code.ipynb)
+- [Presentation video I](https://youtu.be/pLiu6ytFnmU)
+- [Project implementation II](nba_draft_classifier.ipynb)
+- [Presentation video II](https://drive.google.com/file/d/1Rp0LLDW0-fbC1JNTYNSdCvD-PSl8j96-/view?usp=sharing)
